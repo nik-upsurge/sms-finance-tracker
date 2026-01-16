@@ -1,0 +1,4 @@
+app/src/main/res/raw/credentials.json
+.gradle/
+build/
+local.properties
